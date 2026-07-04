@@ -67,22 +67,12 @@ This project operates within the following technical framework:
 
 The complementary failure modes of self-training and CLIP-based transfer point to hybrid approaches as a natural direction for future work. On this domain pair, CLIP-based methods significantly outperform self-training (0.90 vs 0.70 accuracy), suggesting that leveraging the pretraining coverage of large vision-language models is highly effective when the target domain resembles data that CLIP has likely seen during pretraining. Further work could explore combining the confidence regularization ideas from CRST with the adapter-based fine-tuning of Tip-Adapter-F to address minority class handling more effectively.
 
-## Group Contribution
-
-This project was completed as a group effort. The Art → Real World (Office-Home) portion documented in this README represents my individual contribution:
-
-* **Pentamsetty Sai Harshita** (G2503340A)
-* **Tenbarai Sriram Sri Hari** (G2503355F)
-* **Birul Gulam Mustafa** (G2504112L)
-* **Madan Nikunj** (G2504045E) — *Art → Real World (Office-Home)*
-
 ## Academic Context
 Completed during my Graduate studies at **Nanyang Technological University (NTU), Singapore**.
 
-* **Course:** AI6126 - Advanced Computer Vision
-* **Project:** Project 2 - Output Space UDA and LMM Transfer
-* **Supervisor:** Prof. Lu Shijian
+* **Course:** Advanced Computer Vision
 * **Semester:** AY 2025/2026, Semester 1
+* **Grade Achieved** A+
 
 ## Usage
 **Note for current/future NTU students:** While this repository is public, please ensure you adhere to NTU's Academic Integrity Policy. This is intended as a reference for my personal portfolio; using this code for your own graded assignments is strictly prohibited by the University.
