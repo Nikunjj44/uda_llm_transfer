@@ -71,7 +71,7 @@ The complementary failure modes of self-training and CLIP-based transfer point t
 Completed during my Graduate studies at **Nanyang Technological University (NTU), Singapore**.
 
 * **Course:** Advanced Computer Vision
-* **Semester:** AY 2025/2026, Semester 1
+* **Semester:** AY 2025/2026, Semester 2
 * **Grade Achieved** A+
 
 ## Usage
